@@ -182,7 +182,7 @@ Additional pages can be created by placing MDX files inside `contents/pages`, e.
 ```md
 ---
 title: About
-slug: "/about"
+slug: '/about'
 ---
 ```
 
@@ -221,3 +221,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
 Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
+
+## TODO
+
+- open tab at new tab
+- article title prefix
+  - like `Python` some-title
+- implementation article category view
+- note block
