@@ -229,3 +229,4 @@ Please star this project, share it on Social Media or consider supporting me on 
   - like `Python` some-title
 - implementation article category view
 - note block
+- is there more easy way to add post (mdx)
